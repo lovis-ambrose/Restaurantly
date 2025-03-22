@@ -1,8 +1,8 @@
-![BiteBooker Screenshot](Frontend/public/assets/BiteBooker.png)
+![Restaurantly Screenshot](Frontend/public/assets/Restaurantly.png)
 
-# BiteBooker - Food Booking Web App
+# Restaurantly - Food Booking Web App
 
-BiteBooker is a full-stack food booking web application designed to simplify meal pre-booking and streamline the ordering process. The application consists of three main components: Admin, Backend, and Frontend. It leverages modern web technologies and frameworks to deliver a seamless user experience.
+Restaurantly is a full-stack food booking web application designed to simplify meal pre-booking and streamline the ordering process. The application consists of three main components: Admin, Backend, and Frontend. It leverages modern web technologies and frameworks to deliver a seamless user experience.
 
 ## Table of Contents
 - [Features](#features)
@@ -44,8 +44,8 @@ Ensure you have the following installed on your system:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/rishibharadwajsai/BiteBooker.git
-cd BiteBooker
+git clone https://github.com/lovis-ambrose/Restaurantly.git
+cd Restaurantly
 ```
 
 ---
@@ -106,10 +106,10 @@ Set up the three components: **Admin**, **Backend**, and **Frontend**.
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/rishibharadwajsai/BiteBooker/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/lovis-ambrose/Restaurantly/blob/main/LICENSE) file for details.
 
 ---
 
-If you encounter any issues or have suggestions, feel free to open an issue in the [repository](https://github.com/rishibharadwajsai/BiteBooker).
+If you encounter any issues or have suggestions, feel free to open an issue in the [repository](https://github.com/lovis-ambrose/Restaurantly).
 
 Happy coding!

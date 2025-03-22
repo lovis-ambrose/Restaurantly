@@ -7,13 +7,13 @@ Thank you for your interest in contributing to Restaurantly! Your contributions 
 ## How to Contribute
 
 ### 1. Fork the Repository
-- Navigate to the [Restaurantly repository](https://github.com/rishibharadwajsai/Restaurantly) on GitHub.
+- Navigate to the [Restaurantly repository](https://github.com/lovis-ambrose/Restaurantly) on GitHub.
 - Click the "Fork" button to create your own copy of the repository.
 
 ### 2. Clone the Forked Repository
 - Clone your forked repository to your local machine:
   ```bash
-  git clone https://github.com/rishibharadwajsai/Restaurantly.git
+  git clone https://github.com/lovis-ambrose/Restaurantly.git
   ```
 - Navigate to the project directory:
   ```bash
@@ -60,7 +60,7 @@ Thank you for your interest in contributing to Restaurantly! Your contributions 
 
 ## Contribution Guidelines
 1. **Issues:**
-   - Before starting work on a feature or bug fix, check the [Issues](https://github.com/rishibharadwajsai/Restaurantly/issues) tab to see if it has already been reported.
+   - Before starting work on a feature or bug fix, check the [Issues](https://github.com/lovis-ambrose/Restaurantly/issues) tab to see if it has already been reported.
    - If not, open a new issue with a clear description.
 
 2. **Pull Requests:**
@@ -79,7 +79,7 @@ Thank you for your interest in contributing to Restaurantly! Your contributions 
 ---
 
 ## Getting Help
-If you have questions or need help, feel free to open a discussion or issue in the [repository](https://github.com/rishibharadwajsai/Restaurantly/issues). You can also contact the project owner at [rishi.lella123@gmail.com](mailto:rishi.lella123@gmail.com).
+If you have questions or need help, feel free to open a discussion or issue in the [repository](https://github.com/lovis-ambrose/Restaurantly/issues). You can also contact the project owner at [lovisambrose212@gmail.com](mailto:lovisambrose212@gmail.com).
 
 ---
 

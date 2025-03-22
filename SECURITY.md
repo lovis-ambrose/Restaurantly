@@ -5,7 +5,7 @@
 If you discover a security vulnerability in this project, please report it directly to me.  
 
 1. **Contact**  
-   Email me at [rishi.lella123@gmail.com](mailto:rishi.lella123@gmail.com) with the subject line "Security Vulnerability Report." Please include:  
+   Email me at [lovisambrose212@gmail.com](mailto:lovisambrose212@gmail.com) with the subject line "Security Vulnerability Report." Please include:  
    - A detailed description of the vulnerability.  
    - Steps to reproduce the issue.  
    - Any relevant logs, screenshots, or additional details.  
